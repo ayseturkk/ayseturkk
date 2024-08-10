@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayseturkk01@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mXnX1OiIBVmM62VUnjnpOwsAKt80wAcH/edit?usp=sharing&ouid=102054979549846340482&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S-ACoXs1uMbV53WzNQdVCt2TMfsHg9fE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
