@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayseturkk01" target="blank"><img src="https://img.shields.io/twitter/follow/ayseturkk01?logo=twitter&style=for-the-badge" alt="ayseturkk01" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, JAVA.**
+- 🌱 I’m currently learning **SQL, JAVA, Python.**
 
 - 📫 How to reach me **ayseturkk01@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19NN2d8zkdO0cvoSS5NQVUlCjFHalg_Tl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zqmBNuMw03q-BohZmAmRLFt5_tfFTzqv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
